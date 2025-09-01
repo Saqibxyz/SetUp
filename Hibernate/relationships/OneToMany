@@ -1,5 +1,7 @@
->OneToMany mapping code sample
-```package org.hibernate;
+> OneToMany mapping code sample
+
+```
+package org.hibernate;
 
 import jakarta.persistence.*;
 
@@ -68,6 +70,7 @@ public class Student {
 }
 
 ```
+
 ```
 package org.hibernate;
 
