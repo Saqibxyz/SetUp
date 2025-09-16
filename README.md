@@ -8,12 +8,12 @@ This project demonstrates how to containerize a Spring Boot app for easy deploym
 ## Project Structure
 
 .
-├── src/                # Application source code
-├── target/             # Compiled JAR files (created after build)
-├── Dockerfile          # Docker instructions
-├── .dockerignore       # Files ignored by Docker
-├── pom.xml             # Maven build configuration
-└── README.md           # Project documentation
+├── src/               
+├── target/            
+├── Dockerfile        
+├── .dockerignore      
+├── pom.xml           
+└── README.md          
 
 ---
 
