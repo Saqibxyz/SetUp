@@ -7,7 +7,6 @@ This project demonstrates how to containerize a Spring Boot app for easy deploym
 
 ## Project Structure
 
-.
 ├── src/               
 ├── target/            
 ├── Dockerfile        
